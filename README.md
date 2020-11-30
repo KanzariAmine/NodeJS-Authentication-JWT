@@ -12,15 +12,15 @@ This an authentication using JWT that you can plug inside your project.
 
 - <img align="left" alt="Redis" width="26px" src="https://www.spomky-labs.com/wp-content/uploads/2019/03/Screen-Shot-2018-10-11-at-1.40.06-PM.png" />JWT
 
-### Installation
+## Installation
 
-Step 1: Clone the repo
+### Step 1: Clone the repo
 
 ```sh
 $ git clone https://github.com/KanzariAmine/NodeJS-Authtification-JWT-.git
 ```
 
-Step 2: Install the dependencies
+#### Step 2: Install the dependencies
 
 ```sh
 $ npm install
