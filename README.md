@@ -14,7 +14,7 @@ This an authentication using JWT that you can plug inside your project.
 
 ## Installation
 
-### Step 1: Clone the repo
+#### Step 1: Clone the repo
 
 ```sh
 $ git clone https://github.com/KanzariAmine/NodeJS-Authtification-JWT-.git
@@ -26,7 +26,7 @@ $ git clone https://github.com/KanzariAmine/NodeJS-Authtification-JWT-.git
 $ npm install
 ```
 
-Step 3: Put your credentials in the .env file
+#### Step 3: Put your credentials in the .env file
 
 ```sh
 PORT= ADD_SERVER_PORT
@@ -34,18 +34,18 @@ MONGODB_URI = ADD_YOUR_MONGODB_URI
 ACCESS_TOKEN_SECRET= GENERATE_YOUR_ACCESS_TOKEN_SECRET
 REFRESH_TOKEN_SECRET = GENERATE_YOUR_REFRESH_TOKEN_SECRET
 ```
-Step 4: Generate ACCESS_TOKEN_SECRET and  REFRESH_TOKEN_SECRET for JWT
+#### Step 4: Generate ACCESS_TOKEN_SECRET and  REFRESH_TOKEN_SECRET for JWT
 
 ```sh
 $ node ./helpers/generate_keys.js
 ```
-Step 5: Run Redis Server (Linux Ubuntu)
+#### Step 5: Run Redis Server (Linux Ubuntu)
 
 ```sh
 $ redis-server
 ```
 
-Run app
+#### Run app
 
 ```sh
 $ npm start
