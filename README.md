@@ -17,7 +17,7 @@ This an authentication using JWT that you can plug inside your project.
 #### Step 1: Clone the repo
 
 ```sh
-$ git clone https://github.com/KanzariAmine/NodeJS-Authtification-JWT-.git
+$ git clone https://github.com/KanzariAmine/NodeJS-Authentication-JWT.git
 ```
 
 #### Step 2: Install the dependencies
