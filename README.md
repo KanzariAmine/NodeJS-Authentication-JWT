@@ -8,9 +8,9 @@ This an authentication using JWT that you can plug inside your project.
 
 - <img align="left" alt="MongoDB" width="32px" src="https://cdn.iconscout.com/icon/free/png-256/mongodb-3-1175138.png" /> MongoDB
 
-- <img align="left" alt="Node.js" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/redis-83994.png" /> Redis
+- <img align="left" alt="Redis" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/redis-83994.png" /> Redis
 
-- <img align="left" alt="Redis" width="32px"src="https://www.spomky-labs.com/wp-content/uploads/2019/03/Screen-Shot-2018-10-11-at-1.40.06-PM.png"/> JWT
+- <img align="left" alt="Redis" width="26px" src="https://www.spomky-labs.com/wp-content/uploads/2019/03/Screen-Shot-2018-10-11-at-1.40.06-PM.png" />JWT
 
 ### Installation
 
