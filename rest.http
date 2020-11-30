@@ -1,0 +1,39 @@
+# You can use this file if you install (REST Client) Extensions.
+
+GET http://localhost:8000
+Authorization: Bearer ADD_YOUR_TOKEN
+
+### Rgister route
+POST http://localhost:8000/auth/register
+Content-Type: application/json
+
+{
+  "email": "test@test.com",
+  "password": "1234"
+}
+
+###Login route
+POST http://localhost:8000/auth/login
+Content-Type: application/json
+
+{
+  "email": "test@test.com",
+  "password": "1234"
+}
+
+
+###refresh-token route
+POST http://localhost:8000/auth/refresh-token
+Content-Type: application/json
+
+{
+	"refreshToken": ADD_YOUR_REFRESH_TOKEN
+}
+
+###logout route
+DELETE http://localhost:8000/auth/logout
+Content-Type: application/json
+
+{
+	"refreshToken": ADD_YOUR_REFRESH_TOKEN
+}
